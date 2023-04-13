@@ -24,7 +24,7 @@ main {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    margin : 80px;
+    margin : 100px;
 }
 
 section {
@@ -61,7 +61,7 @@ img {
 .sale-price {
     font-family: "Fraunces", serif;
     color: hsl(14, 77%, 51%);
-    font-size: 38px;
+    font-size: 32px;
     margin-right: 20px;
 }
 
