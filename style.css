@@ -36,10 +36,10 @@ section {
 }
 
 img {
- flex: 1 0 55%;
- object-fit: cover;
- border-top-left-radius: 20px;
- border-bottom-left-radius: 20px;
+    flex: 1 0 55%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
 
 .category {
